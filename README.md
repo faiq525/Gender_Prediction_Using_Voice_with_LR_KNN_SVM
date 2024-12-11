@@ -3,6 +3,10 @@
 ## Overview
 This project implements voice recognition using machine learning models such as Support Vector Machines (SVM), K-Nearest Neighbors (KNN), and Logistic Regression. The notebook includes data preprocessing, feature extraction, model training, and evaluation.
 
+## Dataset Used
+Dataset was taken from kaggle 
+link: https://www.kaggle.com/datasets/primaryobjects/voicegender
+
 ## Features
 - **Machine Learning Models**: SVM, KNN, and Logistic Regression.
 - **Voice Recognition Dataset**: Data preprocessing and feature extraction included.
