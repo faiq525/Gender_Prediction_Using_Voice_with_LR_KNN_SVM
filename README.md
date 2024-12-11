@@ -17,9 +17,9 @@ This project implements voice recognition using machine learning models such as 
 
 ## Results
 The notebook concludes with a comparison of the performance of the implemented models. The accuracy achieved by each model is as follows:
-- **SVM**: 92% accuracy
-- **KNN**: 89% accuracy
-- **Logistic Regression**: 85% accuracy
+- **SVM**: 97.8% accuracy
+- **KNN**: 97.1% accuracy
+- **Logistic Regression**: 96.5% accuracy
 
 ## Installation
 To run this project, ensure you have Python installed along with the following libraries:
