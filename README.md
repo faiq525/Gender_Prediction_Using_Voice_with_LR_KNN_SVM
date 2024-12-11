@@ -29,10 +29,10 @@ To run this project, ensure you have Python installed along with the following l
 - `matplotlib`
 
 ## Notebook Structure
-Data Preprocessing: Load and clean the dataset.
-Feature Extraction: Transform raw data into features suitable for ML models.
-Model Training: Train SVM, KNN, and Logistic Regression models.
-Evaluation: Assess the accuracy and performance of each model.
+- Data Preprocessing: Load and clean the dataset.
+- Feature Extraction: Transform raw data into features suitable for ML models.
+- Model Training: Train SVM, KNN, and Logistic Regression models.
+- Evaluation: Assess the accuracy and performance of each model.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
